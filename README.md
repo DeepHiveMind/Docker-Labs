@@ -12,9 +12,7 @@ It's me Docker, who revolutionized the world of Technology! Gear up to welcome m
 
  [Who am I? Hello Hello ! It's Me, a Docker!! Click on to get a better handle of me.](beginner/readme.md)
 
-Oh! In case, You know me already! Then visit me @my-official-residence
-
-* [Docker Official Repo](https://docker.com) 
+& In case, You know me already! Then visit me [@my-official-residence: Docker Official Repo](https://docker.com) 
 
 #### Docker Experimentation:
 
