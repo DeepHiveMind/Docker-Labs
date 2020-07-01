@@ -1,13 +1,18 @@
 # TechnoLab - Dockers
 
 Knock! Knock! 
-Who?
+
+*Who?*
+
 It's me Docker!!
-Who Docker?
+
+*Who Docker?*
+
 It's me Docker, who revolutionized the world of Technology! Gear up to welcome me! Here I am for you! Know me inside-out!!!
 Click on to get a better handle of me. [Who am I? Hello Hello ! It's Me, a Docker!!](beginner/readme.md)
 
-Oh! You know me already! Then visit me @my-official-residence
+Oh! In case, You know me already! Then visit me @my-official-residence
+
 * [Docker Official Repo](https://docker.com) 
 
 #### Docker Experimentation:
