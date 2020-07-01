@@ -32,7 +32,7 @@ It's me Docker, who revolutionized the world of Technology! Gear up to welcome m
 
 * [Docker Swarm Mode](swarm-mode/README.md)
 
-A Prized asset for you- :smiley:
+Now here comes the Prized asset for you- :smiley:
 
 * [Docker with Kuberenetes & within Kubeflow](https://github.com/DeepHiveMind/Kubeflow-AI-Labs)
 
