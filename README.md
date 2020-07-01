@@ -16,7 +16,7 @@ It's me Docker, who revolutionized the world of Technology! Gear up to welcome m
 
 #### Docker Experimentation:
 
-* [Docker Swarm Mode](swarm-mode/README.md)
+
 * [Configuring developer tools and programming languages](developer-tools/README.md)
   * Node.js
     * [Live Debugging a Node.js application in Docker](developer-tools/nodejs-debugging)
@@ -30,7 +30,11 @@ It's me Docker, who revolutionized the world of Technology! Gear up to welcome m
 * [Docker Networking](networking/)
 * [Hands-on Labs from DockerCon US 2017](dockercon-us-2017/)
 
+* [Docker Swarm Mode](swarm-mode/README.md)
 
+A Prized asset for you- :smiley:
+
+* [Docker with Kuberenetes & within Kubeflow](https://github.com/DeepHiveMind/Kubeflow-AI-Labs)
 
 
 
